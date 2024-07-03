@@ -13,3 +13,20 @@ The Super Store Data Analysis Project leverages a dataset from Kaggle to demonst
 ## Overview
 
 This project exemplifies the use of advanced Power BI features to transform raw data into actionable insights, enabling data-driven decision-making for the apple superstore.
+
+## Getting Started
+
+1. Download and install Power BI Desktop from the [official website](https://powerbi.microsoft.com/desktop/).
+2. Clone this repository to your local machine.
+3. Open the Power BI file (`.pbix`) included in the repository.
+4. Explore the dashboards and reports to gain insights into the superstore's data.
+
+## Dataset
+
+The dataset used in this project is sourced from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps?select=AppleStore.csv)), which includes comprehensive sales data for the apple superstore.
+
+## Acknowledgements
+
+- Kaggle for providing the dataset.
+- Microsoft Power BI for the powerful data analysis and visualization tools.
+
